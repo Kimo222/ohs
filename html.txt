@@ -1,1 +1,15 @@
-
+week 1 notes
+HTML is the structure of a website.
+made of tags
+<!DOCTYPE HTML>
+<HTML>
+  <head>
+     <title>KIMO</head>
+  </head>
+  
+  <body>
+    <h1> Hello my friends</h1>
+    <P> I am KIMO</P>
+    
+  </body>
+</HTML>
