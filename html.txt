@@ -13,3 +13,15 @@ made of tags
     
   </body>
 </HTML>
+
+
+
+Week 2
+Elements:
+Heading    <h1>  </h1>
+Paragraph  <p>   </p>
+Button  <button>  </button>
+Links   <a href="link">  </a>
+Images<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+  src = is the website that we got our pic from.
